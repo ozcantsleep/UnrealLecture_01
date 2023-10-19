@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc\\documents\\unreal projects\\yageun231019\\source\\yageun231019\\yageun231019.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc\\documents\\unreal projects\\yageun231019\\intermediate\\build\\win64\\x64\\yageun231019editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\pc\\documents\\unreal projects\\yageun231019\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yageun231019\\definitions.yageun231019.h",
+            "c:\\users\\pc\\documents\\unreal projects\\yageun231019\\source\\yageun231019\\yageun231019.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

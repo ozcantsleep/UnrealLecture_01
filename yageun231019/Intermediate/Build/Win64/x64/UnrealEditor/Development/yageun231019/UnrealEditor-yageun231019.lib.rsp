@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-yageun231019.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PC\Documents\Unreal Projects\yageun231019\Intermediate\Build\Win64\x64\yageun231019Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\PC\Documents\Unreal Projects\yageun231019\Intermediate\Build\Win64\x64\UnrealEditor\Development\yageun231019\yageun231019.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\yageun231019\Intermediate\Build\Win64\x64\UnrealEditor\Development\yageun231019\Default.rc2.res"
+/OUT:"C:\Users\PC\Documents\Unreal Projects\yageun231019\Intermediate\Build\Win64\x64\UnrealEditor\Development\yageun231019\UnrealEditor-yageun231019.lib"

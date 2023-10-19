@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "yageun231019",
+			"Path": "..\\Source\\yageun231019.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "yageun231019Editor",
+			"Path": "..\\Source\\yageun231019Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
