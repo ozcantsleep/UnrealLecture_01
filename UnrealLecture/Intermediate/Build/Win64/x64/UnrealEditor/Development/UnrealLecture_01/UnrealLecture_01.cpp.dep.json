@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc\\documents\\unreal projects\\unreallecture_01\\source\\unreallecture_01\\unreallecture_01.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc\\documents\\unreal projects\\unreallecture_01\\intermediate\\build\\win64\\x64\\unreallecture_01editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\pc\\documents\\unreal projects\\unreallecture_01\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreallecture_01\\definitions.unreallecture_01.h",
+            "c:\\users\\pc\\documents\\unreal projects\\unreallecture_01\\source\\unreallecture_01\\unreallecture_01.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
