@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealLecture_01.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PC\Documents\Unreal Projects\UnrealLecture_01\Intermediate\Build\Win64\x64\UnrealLecture_01Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealLecture_01\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLecture_01\UnrealLecture_01.cpp.obj"
+"C:\Users\PC\Documents\Unreal Projects\UnrealLecture_01\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLecture_01\Default.rc2.res"
+/OUT:"C:\Users\PC\Documents\Unreal Projects\UnrealLecture_01\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLecture_01\UnrealEditor-UnrealLecture_01.lib"

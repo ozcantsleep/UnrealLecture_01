@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealLecture_01",
+			"Path": "..\\Source\\UnrealLecture_01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealLecture_01Editor",
+			"Path": "..\\Source\\UnrealLecture_01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
