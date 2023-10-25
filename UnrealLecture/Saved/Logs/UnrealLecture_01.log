@@ -5082,3 +5082,684 @@ Script call stack:
 [2023.10.25-06.28.52:535][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.10.25-06.28.56:020][519]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
 [2023.10.25-06.28.56:020][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-06.37.50:504][381]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.25-06.38.21:296][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.10.25-06.39.02:966][896]LogEditorTransaction: Undo Delete current selection
+[2023.10.25-06.39.03:004][896]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.39.03:005][896]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.39.03:006][896]LogBlueprintUserMessages: [BP_Actor_C_12] Material Changed
+[2023.10.25-06.39.30:415][248]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.25-06.39.50:161][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.25-06.39.50:168][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-06.39.50:211][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Actor" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset" SILENT=true
+[2023.10.25-06.39.50:232][470]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Actor
+[2023.10.25-06.39.50:233][470]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_Actor19556CCA479EECE713955F8D39611B0C.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset'
+[2023.10.25-06.39.50:241][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.12 sec)
+[2023.10.25-06.39.50:242][470]AssetCheck: New page: Asset Save: BP_Actor
+[2023.10.25-06.39.50:243][470]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Actor.BP_Actor
+[2023.10.25-06.40.00:821][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.10.25-06.40.00:827][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-06.40.00:892][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Actor" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset" SILENT=true
+[2023.10.25-06.40.00:911][418]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Actor
+[2023.10.25-06.40.00:912][418]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_Actor24340C884DA178B0F539268280357B8F.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset'
+[2023.10.25-06.40.00:920][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.21 sec)
+[2023.10.25-06.40.00:922][418]AssetCheck: New page: Asset Save: BP_Actor
+[2023.10.25-06.40.00:922][418]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Actor.BP_Actor
+[2023.10.25-06.40.01:038][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.25-06.40.01:243][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.10.25-06.40.03:624][677]BlueprintLog: New page: Compile BP_Actor
+[2023.10.25-06.40.03:642][677]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.40.03:643][677]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.40.03:644][677]LogBlueprintUserMessages: [BP_Actor_C_12] Material Changed
+[2023.10.25-06.40.03:667][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.10.25-06.40.03:671][677]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.40.03:672][677]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.40.03:673][677]LogBlueprintUserMessages: [BP_Actor_C_12] Material Changed
+[2023.10.25-06.40.03:674][677]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.40.03:745][677]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.40.03:746][677]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.40.03:747][677]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.41.26:783][879]LogBlueprint: Warning: [AssetLog] C:\Work\UnrealLecture_01\UnrealLecture\Content\WIP_Widget.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Clicked (Button_44)  and was replaced as a Custom Event!
+[2023.10.25-06.42.03:355][719]LogBlueprint: Warning: [AssetLog] C:\Work\UnrealLecture_01\UnrealLecture\Content\WIP_Widget.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Clicked (Button_44)  and was replaced as a Custom Event!
+[2023.10.25-06.42.05:452][908]LogEditorTransaction: Undo Paste clipboard contents
+[2023.10.25-06.42.18:735][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.10.25-06.42.18:741][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-06.42.18:812][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.25-06.42.18:821][408]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.25-06.42.18:822][408]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_Widget1A3FE7F745292542C70C5686D79F429D.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.25-06.42.18:830][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 3.30 sec)
+[2023.10.25-06.42.18:831][408]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.25-06.42.18:832][408]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.25-06.42.49:442][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-06.42.49:517][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Actor" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset" SILENT=true
+[2023.10.25-06.42.49:537][728]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Actor
+[2023.10.25-06.42.49:537][728]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_ActorB9553050469A26ECF84B3798F6BB30A9.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset'
+[2023.10.25-06.42.49:546][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 3.40 sec)
+[2023.10.25-06.42.49:548][728]AssetCheck: New page: Asset Save: BP_Actor
+[2023.10.25-06.42.49:548][728]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Actor.BP_Actor
+[2023.10.25-06.42.50:178][798]LogBlueprint: Warning: [AssetLog] C:\Work\UnrealLecture_01\UnrealLecture\Content\Blueprints\BP_Actor.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2023.10.25-06.42.50:206][798]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.42.50:207][798]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.42.50:207][798]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.43.05:669][340]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.43.05:672][340]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.43.05:673][340]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.43.19:889][890]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.43.19:891][890]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.43.19:892][890]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.43.26:351][631]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.43.26:353][631]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.43.26:355][631]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.43.29:904][ 25]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.43.29:906][ 25]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.43.29:907][ 25]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.43.34:957][602]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.43.34:959][602]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.43.34:960][602]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.43.41:148][306]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.43.41:151][306]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.43.41:152][306]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.43.47:011][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.10.25-06.43.47:019][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-06.43.47:080][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Actor" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset" SILENT=true
+[2023.10.25-06.43.47:101][987]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Actor
+[2023.10.25-06.43.47:102][987]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_ActorF3EA3A7E4AB114FBBAAD69B7A393F310.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset'
+[2023.10.25-06.43.47:111][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.49 sec)
+[2023.10.25-06.43.47:112][987]AssetCheck: New page: Asset Save: BP_Actor
+[2023.10.25-06.43.47:113][987]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Actor.BP_Actor
+[2023.10.25-06.44.01:418][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.25-06.44.50:431][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.25-06.44.50:437][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-06.44.50:510][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.25-06.44.50:518][763]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.25-06.44.50:519][763]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_WidgetA113E7914A1C76A537A9BE84BFF006C2.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.25-06.44.50:527][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.58 sec)
+[2023.10.25-06.44.50:529][763]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.25-06.44.50:529][763]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.25-06.45.51:093][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.25-06.45.51:975][224]BlueprintLog: New page: Compile BP_Actor
+[2023.10.25-06.45.51:995][224]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.45.51:995][224]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.45.51:996][224]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.45.52:021][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.10.25-06.45.52:024][224]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.45.52:024][224]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.45.52:025][224]LogBlueprintUserMessages: [BP_Actor_C_13] Material Changed
+[2023.10.25-06.45.52:025][224]LogBlueprintUserMessages: [BP_Actor_C_14] Material Changed
+[2023.10.25-06.45.52:102][224]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.45.52:103][224]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.45.52:104][224]LogBlueprintUserMessages: [BP_Actor_C_14] Material Changed
+[2023.10.25-06.46.49:737][ 58]Cmd: TRANSACTION UNDO
+[2023.10.25-06.46.49:737][ 58]LogEditorTransaction: Undo Delete current selection
+[2023.10.25-06.47.28:484][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.25-06.47.28:494][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-06.47.28:546][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.25-06.47.28:554][556]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.25-06.47.28:555][556]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_Widget2B049F0C4CB32466D3C39B96CD8EEA39.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.25-06.47.28:564][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 3.65 sec)
+[2023.10.25-06.47.28:565][556]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.25-06.47.28:565][556]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.25-06.47.55:159][468]LogEditorTransaction: Undo Paste clipboard contents
+[2023.10.25-06.47.55:163][468]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.47.55:164][468]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.47.55:165][468]LogBlueprintUserMessages: [BP_Actor_C_14] Material Changed
+[2023.10.25-06.47.56:389][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.10.25-06.47.56:617][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.25-06.47.56:783][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.25-06.56.18:659][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.25-06.56.18:665][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-06.56.18:728][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.25-06.56.18:738][810]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.25-06.56.18:739][810]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_WidgetBB7AFE26412ACC90A6AA319D183169F7.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.25-06.56.18:747][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 3.74 sec)
+[2023.10.25-06.56.18:749][810]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.25-06.56.18:749][810]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.25-06.56.18:846][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.25-06.56.20:692][ 27]BlueprintLog: New page: Compile WIP_Widget
+[2023.10.25-06.56.20:716][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.10.25-06.56.20:719][ 27]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.56.20:720][ 27]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.56.20:721][ 27]LogBlueprintUserMessages: [BP_Actor_C_14] Material Changed
+[2023.10.25-06.56.20:754][ 27]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.56.20:755][ 27]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.56.20:756][ 27]LogBlueprintUserMessages: [BP_Actor_C_14] Material Changed
+[2023.10.25-06.56.21:882][146]BlueprintLog: New page: Compile BP_Actor
+[2023.10.25-06.56.21:901][146]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.56.21:901][146]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.56.21:902][146]LogBlueprintUserMessages: [BP_Actor_C_14] Material Changed
+[2023.10.25-06.56.21:926][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.10.25-06.56.21:930][146]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.56.21:931][146]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.56.21:932][146]LogBlueprintUserMessages: [BP_Actor_C_14] Material Changed
+[2023.10.25-06.56.21:933][146]LogBlueprintUserMessages: [BP_Actor_C_15] Material Changed
+[2023.10.25-06.56.21:966][146]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.56.21:967][146]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-06.56.21:968][146]LogBlueprintUserMessages: [BP_Actor_C_15] Material Changed
+[2023.10.25-06.56.24:799][447]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.25-06.56.24:806][447]LogContentBundle: [SampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.25-06.56.24:806][447]LogWorldPartition: Display: GenerateStreaming for 'SampleMap' started...
+[2023.10.25-06.56.24:935][447]LogWorldPartition: Display: GenerateStreaming for 'SampleMap' took 129 ms (total: 3.36 sec)
+[2023.10.25-06.56.24:936][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.25-06.56.24:936][447]PIE: New page: PIE session: SampleMap (2023. 10. 26. 오전 12:56:24)
+[2023.10.25-06.56.24:936][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SampleMap
+[2023.10.25-06.56.24:950][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013826s)
+[2023.10.25-06.56.24:950][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SampleMap.SampleMap to /Game/Maps/UEDPIE_0_SampleMap.SampleMap (0.013865s)
+[2023.10.25-06.56.24:963][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.10.25-06.56.24:966][447]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-06.56.24:966][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-06.56.24:967][447]LogAIModule: Creating AISystem for world SampleMap
+[2023.10.25-06.56.24:967][447]LogWorldPartition: ULevel::OnLevelLoaded(SampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.25-06.56.24:967][447]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-06.56.24:967][447]LogWorldPartition: UWorldPartition::Initialize : World = SampleMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.25-06.56.24:967][447]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.25-06.56.24:971][447]LogContentBundle: [SampleMap(Standalone)] Creating new contrainer.
+[2023.10.25-06.56.24:971][447]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 426 ms)
+[2023.10.25-06.56.24:971][447]LogPlayLevel: PIE: World Init took: (0.004995s)
+[2023.10.25-06.56.24:971][447]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.10.25-06.56.24:971][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.25-06.56.24:971][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.25-06.56.24:971][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.25-06.56.24:971][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.25-06.56.24:971][447]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.25-06.56.24:971][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.25-06.56.24:971][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.25-06.56.24:971][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.25-06.56.24:972][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.25-06.56.24:972][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.25-06.56.24:972][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.25-06.56.24:975][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.25-06.56.24:989][447]LogAudioMixer: Display: Using Audio Hardware Device VSO273-75(3- High Definition Audio Device)
+[2023.10.25-06.56.24:989][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.25-06.56.24:989][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.25-06.56.24:989][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.25-06.56.24:990][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.10.25-06.56.24:990][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.10.25-06.56.24:992][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.10.25-06.56.24:992][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.10.25-06.56.24:992][447]LogInit: FAudioDevice initialized with ID 25.
+[2023.10.25-06.56.24:992][447]LogAudio: Display: Audio Device (ID: 25) registered with world 'SampleMap'.
+[2023.10.25-06.56.24:993][447]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.10.25-06.56.24:995][447]LogLoad: Game class is 'GameModeBase'
+[2023.10.25-06.56.24:996][447]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2023.10.25-15.56.24
+[2023.10.25-06.56.24:996][447]LogWorld: Bringing up level for play took: 0.000789
+[2023.10.25-06.56.24:998][447]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.10.25-06.56.24:999][447]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2023.10.25-06.56.24:999][447]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2023.10.25-06.56.25:003][447]LogStreaming: Display: FlushAsyncLoading(): 62 QueuedPackages, 0 AsyncPackages
+[2023.10.25-06.56.25:267][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/ZA/TX8DLNE9C2PGVA7YBSL1YX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:267][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/TP/10P5C0K4N7IZJTILEDQPNR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:267][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/TP/10P5C0K4N7IZJTILEDQPNR.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:267][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/TF/VVXBLXEP449E0C3LC0HT2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:267][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/LT/E9ZPE0FIP9WHD93P4KNNRN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/LT/E9ZPE0FIP9WHD93P4KNNRN.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/SG/U33F672UUCSO46ZNNR5R8K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/RS/9YNVMWCYIRXG6MIXPHMT2J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/MF/0BZN5UX3Y4D8Y6VRRM0N1O.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/MF/0BZN5UX3Y4D8Y6VRRM0N1O.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/56/BLJF676DNGVT1755QCO236.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/C/IS/MD60VULM70GIB5ZJDPJLUM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/C/33/B6WTO3X4XOHYZKJB0FVYX8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/U8/L56XSOJQYN6UL1KJJ5B3PL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/O7/R9QA1W51TLA5Y1EX43XGRS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/AH/E2BPKYIPUNSV2BPCH7BUTK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/AH/E2BPKYIPUNSV2BPCH7BUTK.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/4R/HSAZ5Z3R54ZRS5Q0VCCT7K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/A/XC/1Y76TF6HKCEUKUY2Q16HX5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/A/PW/OHEKY4R6CZ35LQCKUHSO6B.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/A/PW/OHEKY4R6CZ35LQCKUHSO6B.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/YU/8EBPOJGSWWIZABDZL3949M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/EB/49D545K6V08ZF299VRXJWS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/7F/O6HS59DLIDEYJ5378ZL1N4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/7F/O6HS59DLIDEYJ5378ZL1N4.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/78/HZ4C8OMJMTT4718KGYXB19.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/0Q/7H1Q34BKSR67Y0NP6A8PAC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/0Q/7H1Q34BKSR67Y0NP6A8PAC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/OS/E225OMPVPR2V9ET1EH5Q0C.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/OS/E225OMPVPR2V9ET1EH5Q0C.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/OS/E225OMPVPR2V9ET1EH5Q0C.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/OS/E225OMPVPR2V9ET1EH5Q0C.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/1V/Z2PNZJCJDY1G3KGW008816.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/LZ/H15BPHKBSI1I7VQK973JD5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/LW/4V74HGJON268MLXTJHKAY0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/LW/4V74HGJON268MLXTJHKAY0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/B3/XBA3OJYNIM6PKA768LDX1U.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/AV/PX96BUZABANL5SA2ZNKR6X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/AF/KU7RR62JBB0WFJ2AHY6GML.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/6/KO/H6I4BE78RQSG0LG365ZXAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/6/CL/J4G2BDU6L3AQ475EHGNMYC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/6/9W/EIDCZL13IKHXXO11C0MMEG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/6/9T/DQAJ03BHQRPLT9S7VM9AYO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/5/S9/Y16766CLNQPBZEONAUQJJ3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/5/2U/ZPX5G2EBNY2M1O84QCKKWZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/4/JR/1PWTYJ8PUP3K539QMPKIT8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/3/HM/23J4LEZ4HYPY502KGV00QL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/3/7W/YABKVOS0Y48G3AG0H63Q6G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/3/2J/UQSDS6INLOP5FYZY4664YN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/2/D9/9W7AXXIYTU7YGAKC0CQ3YH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/2/9M/5MNLLEX4MN8LL9T8HNBH1C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/2/4O/8HFWSSKGU04UU3CIU01FD3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/2/4O/8HFWSSKGU04UU3CIU01FD3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/ZB/K4H5UW19MFEVYQPRYJU01W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/ZB/K4H5UW19MFEVYQPRYJU01W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/WU/GYWINRPFLXF193DH21DQ31.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/8V/PAALD3QZWTCBDS13MGJZCE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/8V/PAALD3QZWTCBDS13MGJZCE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/6E/FSO0NW0W1VLMYZQ3VK8X8Q.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/6E/FSO0NW0W1VLMYZQ3VK8X8Q.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/0/RJ/FSLHZ5ZZNT2ICC6XSVP6SO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/0/QM/6GOX67EPLOGG36PS03HQZQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/0/L1/PI0ICM1QH4CDPYHRT11D6I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:268][447]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/0/4G/CLGUTRL8L525T3IR7R4SKG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.25-06.56.25:278][447]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-06.56.25:324][447]PIE: Server logged in
+[2023.10.25-06.56.25:325][447]PIE: Play in editor total start time 0.52 seconds.
+[2023.10.25-06.56.26:892][628]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.29:010][882]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.29:343][922]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.29:585][951]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.29:735][969]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.29:893][988]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.30:034][  5]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.30:185][ 23]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.30:327][ 40]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.30:476][ 58]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.30:636][ 77]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.30:794][ 96]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.30:944][114]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.31:102][133]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.31:252][151]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.31:411][170]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.31:569][189]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.31:719][207]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.31:878][226]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.33:440][412]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.33:600][431]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.33:767][451]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.33:934][471]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.34:084][489]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.34:225][506]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.34:393][526]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.34:534][543]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.34:701][563]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.34:867][583]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.35:017][601]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.35:175][620]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.35:342][640]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.35:509][660]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.35:667][679]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.35:801][695]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.35:967][715]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.36:143][736]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.36:317][757]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.36:484][777]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.36:659][798]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.36:818][817]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.36:976][836]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.37:135][855]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.37:318][877]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.37:485][897]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.37:651][917]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.37:809][936]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.37:952][953]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.38:235][987]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.38:388][  5]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.38:554][ 25]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.38:705][ 43]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.38:872][ 63]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.39:046][ 84]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.39:205][103]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.39:363][122]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.39:530][142]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.39:705][163]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.39:864][182]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.40:038][203]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.40:213][224]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.49:448][326]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 1
+[2023.10.25-06.56.50:148][410]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 2
+[2023.10.25-06.56.52:511][693]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.52:687][714]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.52:814][729]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 3
+[2023.10.25-06.56.52:854][734]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.53:029][755]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.53:204][776]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.53:362][795]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.53:522][814]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 4
+[2023.10.25-06.56.53:545][817]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.56.53:712][837]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.56.56:207][136]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 5
+[2023.10.25-06.56.56:864][215]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 6
+[2023.10.25-06.56.58:169][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.10.25-06.56.59:589][540]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 7
+[2023.10.25-06.57.00:247][619]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 8
+[2023.10.25-06.57.01:812][807]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.01:963][825]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.02:130][845]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.02:304][866]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.02:965][945]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 9
+[2023.10.25-06.57.03:623][ 24]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 10
+[2023.10.25-06.57.04:271][102]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.05:371][234]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.05:555][256]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.05:913][299]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.06:373][354]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 11
+[2023.10.25-06.57.06:381][355]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 12
+[2023.10.25-06.57.06:680][391]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.06:957][424]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 13
+[2023.10.25-06.57.07:146][447]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.07:338][470]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.07:521][492]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.07:680][511]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.07:855][532]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.08:030][553]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.08:230][577]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.08:422][600]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.08:780][643]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.09:758][760]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 14
+[2023.10.25-06.57.10:362][827]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 15
+[2023.10.25-06.57.10:812][881]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.10:986][902]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.11:153][922]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.11:328][943]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.11:494][963]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.11:670][984]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.11:828][  3]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.57.12:020][ 26]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.57.13:172][164]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 16
+[2023.10.25-06.57.13:722][230]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 17
+[2023.10.25-06.57.16:591][573]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 18
+[2023.10.25-06.57.17:067][630]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 19
+[2023.10.25-06.57.19:959][977]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 20
+[2023.10.25-06.57.20:435][ 34]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 21
+[2023.10.25-06.57.23:327][381]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 22
+[2023.10.25-06.57.23:802][438]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 23
+[2023.10.25-06.57.26:695][785]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 24
+[2023.10.25-06.57.27:170][842]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 25
+[2023.10.25-06.57.30:062][189]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 26
+[2023.10.25-06.57.30:537][246]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 27
+[2023.10.25-06.57.33:429][593]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 28
+[2023.10.25-06.57.33:904][650]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 29
+[2023.10.25-06.57.36:798][997]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 30
+[2023.10.25-06.57.37:273][ 54]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 31
+[2023.10.25-06.57.40:165][401]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 32
+[2023.10.25-06.57.40:639][458]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 33
+[2023.10.25-06.57.43:532][805]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 34
+[2023.10.25-06.57.44:007][862]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 35
+[2023.10.25-06.57.46:899][209]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 36
+[2023.10.25-06.57.47:375][266]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 37
+[2023.10.25-06.57.50:267][613]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 38
+[2023.10.25-06.57.50:742][670]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 39
+[2023.10.25-06.57.53:633][ 17]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 40
+[2023.10.25-06.57.54:108][ 74]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 41
+[2023.10.25-06.57.57:000][421]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 42
+[2023.10.25-06.57.57:476][478]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 43
+[2023.10.25-06.58.00:367][825]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 44
+[2023.10.25-06.58.00:843][882]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 45
+[2023.10.25-06.58.03:735][229]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 46
+[2023.10.25-06.58.04:209][286]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 47
+[2023.10.25-06.58.07:101][633]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 48
+[2023.10.25-06.58.07:577][690]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 49
+[2023.10.25-06.58.10:469][ 37]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 50
+[2023.10.25-06.58.10:943][ 94]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 51
+[2023.10.25-06.58.13:836][441]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 52
+[2023.10.25-06.58.14:311][498]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 53
+[2023.10.25-06.58.17:214][845]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 54
+[2023.10.25-06.58.17:690][902]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 55
+[2023.10.25-06.58.20:581][249]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 56
+[2023.10.25-06.58.20:971][296]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.58.21:057][306]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 57
+[2023.10.25-06.58.21:997][419]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.58.22:506][480]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.58.23:014][541]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.58.23:822][638]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-06.58.23:949][653]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 58
+[2023.10.25-06.58.24:272][692]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.25-06.58.24:424][710]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 59
+[2023.10.25-06.58.27:317][ 57]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 60
+[2023.10.25-06.58.27:792][114]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 61
+[2023.10.25-06.58.30:720][461]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 62
+[2023.10.25-06.58.31:195][518]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 63
+[2023.10.25-06.58.34:087][865]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 64
+[2023.10.25-06.58.34:562][922]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 65
+[2023.10.25-06.58.37:454][269]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 66
+[2023.10.25-06.58.37:930][326]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 67
+[2023.10.25-06.58.40:822][673]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 68
+[2023.10.25-06.58.41:296][730]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 69
+[2023.10.25-06.58.44:188][ 77]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 70
+[2023.10.25-06.58.44:664][134]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 71
+[2023.10.25-06.58.47:555][481]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 72
+[2023.10.25-06.58.48:031][538]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 73
+[2023.10.25-06.58.50:923][885]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 74
+[2023.10.25-06.58.51:397][942]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 75
+[2023.10.25-06.58.54:289][289]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 76
+[2023.10.25-06.58.54:765][346]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 77
+[2023.10.25-06.58.57:657][693]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 78
+[2023.10.25-06.58.58:132][750]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 79
+[2023.10.25-06.59.01:023][ 97]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 80
+[2023.10.25-06.59.01:498][154]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 81
+[2023.10.25-06.59.04:390][501]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 82
+[2023.10.25-06.59.04:865][558]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 83
+[2023.10.25-06.59.07:758][905]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 84
+[2023.10.25-06.59.08:232][962]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 85
+[2023.10.25-06.59.11:124][309]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 86
+[2023.10.25-06.59.11:600][366]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 87
+[2023.10.25-06.59.14:492][713]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 88
+[2023.10.25-06.59.14:967][770]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 89
+[2023.10.25-06.59.17:872][117]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 90
+[2023.10.25-06.59.18:347][174]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 91
+[2023.10.25-06.59.21:239][521]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 92
+[2023.10.25-06.59.21:714][578]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 93
+[2023.10.25-06.59.24:606][925]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 94
+[2023.10.25-06.59.25:082][982]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 95
+[2023.10.25-06.59.27:973][329]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 96
+[2023.10.25-06.59.28:449][386]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 97
+[2023.10.25-06.59.31:341][733]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 98
+[2023.10.25-06.59.31:815][790]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 99
+[2023.10.25-06.59.34:707][137]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 100
+[2023.10.25-06.59.35:182][194]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 101
+[2023.10.25-06.59.38:075][541]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 102
+[2023.10.25-06.59.38:550][598]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 103
+[2023.10.25-06.59.41:442][945]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 104
+[2023.10.25-06.59.41:917][  2]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 105
+[2023.10.25-06.59.44:810][349]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 106
+[2023.10.25-06.59.45:285][406]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 107
+[2023.10.25-06.59.48:176][753]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 108
+[2023.10.25-06.59.48:652][810]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 109
+[2023.10.25-06.59.51:544][157]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 110
+[2023.10.25-06.59.52:018][214]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 111
+[2023.10.25-06.59.54:911][561]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 112
+[2023.10.25-06.59.55:385][618]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 113
+[2023.10.25-06.59.58:277][965]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 114
+[2023.10.25-06.59.58:753][ 22]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 115
+[2023.10.25-07.00.01:645][369]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 116
+[2023.10.25-07.00.02:120][426]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 117
+[2023.10.25-07.00.05:013][773]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 118
+[2023.10.25-07.00.05:487][830]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 119
+[2023.10.25-07.00.08:379][177]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 120
+[2023.10.25-07.00.08:854][234]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 121
+[2023.10.25-07.00.11:747][581]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 122
+[2023.10.25-07.00.12:222][638]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 123
+[2023.10.25-07.00.15:114][985]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 124
+[2023.10.25-07.00.15:588][ 42]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 125
+[2023.10.25-07.00.18:492][389]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 126
+[2023.10.25-07.00.18:967][446]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 127
+[2023.10.25-07.00.21:890][793]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 128
+[2023.10.25-07.00.22:365][850]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 129
+[2023.10.25-07.00.25:258][197]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 130
+[2023.10.25-07.00.25:733][254]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 131
+[2023.10.25-07.00.28:624][601]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 132
+[2023.10.25-07.00.29:099][658]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 133
+[2023.10.25-07.00.31:992][  5]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 134
+[2023.10.25-07.00.32:466][ 62]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 135
+[2023.10.25-07.00.35:358][409]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 136
+[2023.10.25-07.00.35:834][466]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 137
+[2023.10.25-07.00.38:725][813]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 138
+[2023.10.25-07.00.39:201][870]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 139
+[2023.10.25-07.00.42:093][217]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 140
+[2023.10.25-07.00.42:568][274]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 141
+[2023.10.25-07.00.45:460][621]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 142
+[2023.10.25-07.00.45:935][678]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 143
+[2023.10.25-07.00.48:828][ 25]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 144
+[2023.10.25-07.00.49:303][ 82]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 145
+[2023.10.25-07.00.52:194][429]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 146
+[2023.10.25-07.00.52:670][486]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 147
+[2023.10.25-07.00.55:563][833]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 148
+[2023.10.25-07.00.56:038][890]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 149
+[2023.10.25-07.00.58:932][237]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 150
+[2023.10.25-07.00.59:409][294]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 151
+[2023.10.25-07.01.02:302][641]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 152
+[2023.10.25-07.01.02:777][698]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 153
+[2023.10.25-07.01.05:681][ 45]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 154
+[2023.10.25-07.01.06:158][102]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 155
+[2023.10.25-07.01.09:049][449]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 156
+[2023.10.25-07.01.09:524][506]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 157
+[2023.10.25-07.01.12:416][853]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 158
+[2023.10.25-07.01.12:891][910]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 159
+[2023.10.25-07.01.15:784][257]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 160
+[2023.10.25-07.01.16:259][314]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 161
+[2023.10.25-07.01.19:161][661]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 162
+[2023.10.25-07.01.19:637][718]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 163
+[2023.10.25-07.01.22:528][ 65]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 164
+[2023.10.25-07.01.23:003][122]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 165
+[2023.10.25-07.01.25:895][469]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 166
+[2023.10.25-07.01.26:370][526]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 167
+[2023.10.25-07.01.29:262][873]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 168
+[2023.10.25-07.01.29:738][930]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 169
+[2023.10.25-07.01.32:629][277]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 170
+[2023.10.25-07.01.33:105][334]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 171
+[2023.10.25-07.01.35:996][681]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 172
+[2023.10.25-07.01.36:472][738]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 173
+[2023.10.25-07.01.39:364][ 85]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 174
+[2023.10.25-07.01.39:839][142]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 175
+[2023.10.25-07.01.42:731][489]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 176
+[2023.10.25-07.01.43:205][546]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 177
+[2023.10.25-07.01.46:098][893]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 178
+[2023.10.25-07.01.46:573][950]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 179
+[2023.10.25-07.01.49:465][297]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 180
+[2023.10.25-07.01.49:940][354]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 181
+[2023.10.25-07.01.52:832][701]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 182
+[2023.10.25-07.01.53:307][758]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 183
+[2023.10.25-07.01.56:199][105]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 184
+[2023.10.25-07.01.56:673][162]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 185
+[2023.10.25-07.01.59:566][509]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 186
+[2023.10.25-07.02.00:041][566]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 187
+[2023.10.25-07.02.02:932][913]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 188
+[2023.10.25-07.02.03:408][970]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 189
+[2023.10.25-07.02.06:300][317]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 190
+[2023.10.25-07.02.06:774][374]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 191
+[2023.10.25-07.02.09:667][721]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 192
+[2023.10.25-07.02.10:142][778]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 193
+[2023.10.25-07.02.13:039][125]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 194
+[2023.10.25-07.02.13:513][182]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 195
+[2023.10.25-07.02.16:406][529]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 196
+[2023.10.25-07.02.16:880][586]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 197
+[2023.10.25-07.02.19:773][933]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 198
+[2023.10.25-07.02.20:259][990]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 199
+[2023.10.25-07.02.23:152][337]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 200
+[2023.10.25-07.02.23:627][394]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 201
+[2023.10.25-07.02.26:519][741]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 202
+[2023.10.25-07.02.26:994][798]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 203
+[2023.10.25-07.02.29:926][145]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 204
+[2023.10.25-07.02.30:401][202]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 205
+[2023.10.25-07.02.33:294][549]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 206
+[2023.10.25-07.02.33:768][606]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 207
+[2023.10.25-07.02.36:661][953]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 208
+[2023.10.25-07.02.37:136][ 10]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 209
+[2023.10.25-07.02.40:028][357]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 210
+[2023.10.25-07.02.40:503][414]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 211
+[2023.10.25-07.02.43:395][761]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 212
+[2023.10.25-07.02.43:870][818]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 213
+[2023.10.25-07.02.46:762][165]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 214
+[2023.10.25-07.02.47:237][222]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 215
+[2023.10.25-07.02.50:129][569]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 216
+[2023.10.25-07.02.50:603][626]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 217
+[2023.10.25-07.02.53:496][973]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 218
+[2023.10.25-07.02.53:971][ 30]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 219
+[2023.10.25-07.02.56:863][377]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 220
+[2023.10.25-07.02.57:338][434]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 221
+[2023.10.25-07.03.00:230][781]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 222
+[2023.10.25-07.03.00:705][838]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 223
+[2023.10.25-07.03.03:597][185]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 224
+[2023.10.25-07.03.04:072][242]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 225
+[2023.10.25-07.03.06:964][589]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 226
+[2023.10.25-07.03.07:439][646]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 227
+[2023.10.25-07.03.10:330][993]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 228
+[2023.10.25-07.03.10:806][ 50]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 229
+[2023.10.25-07.03.13:698][397]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 230
+[2023.10.25-07.03.14:172][454]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 231
+[2023.10.25-07.03.17:064][801]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 232
+[2023.10.25-07.03.17:540][858]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 233
+[2023.10.25-07.03.20:432][205]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 234
+[2023.10.25-07.03.20:907][262]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 235
+[2023.10.25-07.03.23:811][609]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 236
+[2023.10.25-07.03.24:287][666]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 237
+[2023.10.25-07.03.27:179][ 13]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 238
+[2023.10.25-07.03.27:653][ 70]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 239
+[2023.10.25-07.03.30:546][417]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 240
+[2023.10.25-07.03.31:020][474]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 241
+[2023.10.25-07.03.33:913][821]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 242
+[2023.10.25-07.03.34:388][878]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 243
+[2023.10.25-07.03.36:595][143]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.25-07.03.37:281][225]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] 244
+[2023.10.25-07.03.37:325][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.25-07.03.37:325][227]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SampleMap
+[2023.10.25-07.03.37:350][227]LogWorld: UWorld::CleanupWorld for SampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-07.03.37:351][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-07.03.37:351][227]LogContentBundle: [SampleMap(Standalone)] Deleting container.
+[2023.10.25-07.03.37:354][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.25-07.03.37:360][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-07.03.37:381][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-07.03.37:383][227]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.10.25-07.03.37:384][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.10.25-07.03.37:385][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.10.25-07.03.37:390][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.25-07.03.37:407][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.25-07.03.37:512][228]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.10.25-07.06.22:966][157]BlueprintLog: New page: Compile BP_Actor
+[2023.10.25-07.06.22:987][157]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-07.06.22:988][157]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-07.06.22:988][157]LogBlueprintUserMessages: [BP_Actor_C_15] Material Changed
+[2023.10.25-07.06.23:014][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.25-07.06.23:017][157]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-07.06.23:018][157]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-07.06.23:019][157]LogBlueprintUserMessages: [BP_Actor_C_15] Material Changed
+[2023.10.25-07.06.23:020][157]LogBlueprintUserMessages: [BP_Actor_C_16] Material Changed
+[2023.10.25-07.06.23:120][157]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-07.06.23:121][157]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-07.06.23:121][157]LogBlueprintUserMessages: [BP_Actor_C_16] Material Changed
+[2023.10.25-07.06.24:681][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.25-07.06.24:690][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-07.06.24:747][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Actor" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset" SILENT=true
+[2023.10.25-07.06.24:770][325]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Actor
+[2023.10.25-07.06.24:770][325]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_Actor61406808458AB71C4192CC8F9ADC0A77.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset'
+[2023.10.25-07.06.24:781][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.83 sec)
+[2023.10.25-07.06.24:782][325]AssetCheck: New page: Asset Save: BP_Actor
+[2023.10.25-07.06.24:782][325]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Actor.BP_Actor
+[2023.10.25-07.06.24:914][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.10.25-07.10.48:159][561]LogDerivedDataCache: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:50.028 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 25943 files in 27542 folders with total size 4887 MiB.
+[2023.10.25-07.23.59:053][450]BlueprintLog: New page: Compile WIP_Widget
+[2023.10.25-07.23.59:064][450]LogBlueprint: Warning: [AssetLog] C:\Work\UnrealLecture_01\UnrealLecture\Content\WIP_Widget.uasset: [Compiler] Set CharacterReference  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2023.10.25-07.23.59:064][450]LogBlueprint: Error: [AssetLog] C:\Work\UnrealLecture_01\UnrealLecture\Content\WIP_Widget.uasset: [Compiler] This blueprint (self) is not a BP_Actor_C, therefore ' Target ' must have a connection.
+[2023.10.25-07.23.59:065][450]LogBlueprint: Error: [AssetLog] C:\Work\UnrealLecture_01\UnrealLecture\Content\WIP_Widget.uasset: [Compiler] Variable node  Get StaticMesh1  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.10.25-07.23.59:087][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.10.25-07.23.59:092][450]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-07.23.59:093][450]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-07.23.59:094][450]LogBlueprintUserMessages: [BP_Actor_C_16] Material Changed
+[2023.10.25-07.23.59:191][450]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-07.23.59:192][450]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-07.23.59:193][450]LogBlueprintUserMessages: [BP_Actor_C_16] Material Changed
+[2023.10.25-07.24.09:215][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.10.25-07.24.09:224][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-07.24.09:295][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.25-07.24.09:304][500]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.25-07.24.09:305][500]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_WidgetFCD7CEBD49459E5B40B83A8582F6C698.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.25-07.24.09:315][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.92 sec)
+[2023.10.25-07.24.09:317][500]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.25-07.24.09:317][500]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.25-07.24.10:652][647]BlueprintLog: New page: Compile WIP_Widget
+[2023.10.25-07.24.10:683][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.10.25-07.24.10:685][647]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-07.24.10:686][647]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-07.24.10:687][647]LogBlueprintUserMessages: [BP_Actor_C_16] Material Changed
+[2023.10.25-07.24.10:709][647]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.25-07.24.10:710][647]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.25-07.24.10:711][647]LogBlueprintUserMessages: [BP_Actor_C_16] Material Changed
