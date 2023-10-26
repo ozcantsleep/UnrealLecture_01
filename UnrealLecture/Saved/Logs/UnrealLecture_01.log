@@ -1253,3 +1253,278 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.10.26-01.57.12:711][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
 [2023.10.26-01.57.13:644][375]BlueprintLog: New page: Compile WIP_Widget
 [2023.10.26-01.57.13:677][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.10.26-01.58.25:406][765]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.10.26-01.58.25:407][765]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.10.26-01.58.56:268][857]LogDerivedDataCache: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:49.241 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 25996 files in 27595 folders with total size 4890 MiB.
+[2023.10.26-01.59.18:827][352]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.10.26-01.59.34:105][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.26-01.59.34:110][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-01.59.34:168][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.26-01.59.34:181][148]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.26-01.59.34:182][148]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_WidgetF7F14EF24FF61E89A6666F82A39746E7.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.26-01.59.34:190][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 166 ms)
+[2023.10.26-01.59.34:191][148]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.26-01.59.34:191][148]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.26-01.59.48:978][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.26-01.59.48:983][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-01.59.49:041][893]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(754)].
+[2023.10.26-01.59.49:053][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.26-01.59.49:066][893]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.26-01.59.49:067][893]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_Widget45D5778E448A07D13996D5A25739F8A5.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.26-01.59.49:075][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 258 ms)
+[2023.10.26-01.59.49:076][893]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.26-01.59.49:077][893]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.26-02.03.19:741][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.10.26-02.03.19:745][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.03.19:820][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.26-02.03.19:834][148]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.26-02.03.19:834][148]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_WidgetBD5E580F485B471918331A987F242320.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.26-02.03.19:842][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 354 ms)
+[2023.10.26-02.03.19:843][148]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.26-02.03.19:843][148]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.26-02.03.51:873][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.10.26-02.03.51:878][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.03.51:939][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-02.03.51:968][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.10.26-02.03.51:989][644]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pawn
+[2023.10.26-02.03.51:989][644]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_Pawn0AD34D1845011D362D818AA49F1E5864.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset'
+[2023.10.26-02.03.51:998][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 474 ms)
+[2023.10.26-02.03.52:005][644]AssetCheck: New page: Asset Save: BP_Pawn
+[2023.10.26-02.03.52:005][644]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn
+[2023.10.26-02.04.30:162][930]BlueprintLog: New page: Compile BP_Pawn
+[2023.10.26-02.04.30:201][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.10.26-02.04.31:619][ 66]BlueprintLog: New page: Compile WIP_Widget
+[2023.10.26-02.04.31:652][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.26-02.04.33:690][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.26-02.04.33:697][279]LogContentBundle: [SampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.26-02.04.33:697][279]LogWorldPartition: Display: GenerateStreaming for 'SampleMap' started...
+[2023.10.26-02.04.33:829][279]LogWorldPartition: Display: GenerateStreaming for 'SampleMap' took 132 ms
+[2023.10.26-02.04.33:830][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.26-02.04.33:831][279]PIE: New page: PIE session: SampleMap (2023. 10. 26. 오후 8:04:33)
+[2023.10.26-02.04.33:835][279]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.26-02.04.33:835][279]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.10.26-02.04.33:835][279]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SampleMap
+[2023.10.26-02.04.33:849][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013640s)
+[2023.10.26-02.04.33:849][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SampleMap.SampleMap to /Game/Maps/UEDPIE_0_SampleMap.SampleMap (0.013682s)
+[2023.10.26-02.04.33:862][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.10.26-02.04.33:865][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-02.04.33:865][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.26-02.04.33:866][279]LogAIModule: Creating AISystem for world SampleMap
+[2023.10.26-02.04.33:866][279]LogWorldPartition: ULevel::OnLevelLoaded(SampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.26-02.04.33:866][279]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.26-02.04.33:866][279]LogWorldPartition: UWorldPartition::Initialize : World = SampleMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.26-02.04.33:866][279]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.26-02.04.33:870][279]LogContentBundle: [SampleMap(Standalone)] Creating new contrainer.
+[2023.10.26-02.04.33:870][279]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 367 ms)
+[2023.10.26-02.04.33:870][279]LogPlayLevel: PIE: World Init took: (0.004775s)
+[2023.10.26-02.04.33:870][279]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.26-02.04.33:870][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.26-02.04.33:870][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.26-02.04.33:870][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.26-02.04.33:870][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.26-02.04.33:870][279]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.26-02.04.33:870][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.26-02.04.33:870][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.26-02.04.33:870][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.26-02.04.33:872][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.26-02.04.33:872][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.26-02.04.33:872][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.26-02.04.33:873][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.26-02.04.33:887][279]LogAudioMixer: Display: Using Audio Hardware Device VSO273-75(3- High Definition Audio Device)
+[2023.10.26-02.04.33:887][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.26-02.04.33:887][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.26-02.04.33:887][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.26-02.04.33:888][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.26-02.04.33:888][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.26-02.04.33:890][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.26-02.04.33:890][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.26-02.04.33:890][279]LogInit: FAudioDevice initialized with ID 2.
+[2023.10.26-02.04.33:890][279]LogAudio: Display: Audio Device (ID: 2) registered with world 'SampleMap'.
+[2023.10.26-02.04.33:890][279]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.26-02.04.33:893][279]LogLoad: Game class is 'GameModeBase'
+[2023.10.26-02.04.33:893][279]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2023.10.26-11.04.33
+[2023.10.26-02.04.33:894][279]LogWorld: Bringing up level for play took: 0.000818
+[2023.10.26-02.04.33:896][279]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.10.26-02.04.33:900][279]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2023.10.26-02.04.33:900][279]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2023.10.26-02.04.33:903][279]LogStreaming: Display: FlushAsyncLoading(): 62 QueuedPackages, 0 AsyncPackages
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/0/4G/CLGUTRL8L525T3IR7R4SKG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/0/L1/PI0ICM1QH4CDPYHRT11D6I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/0/QM/6GOX67EPLOGG36PS03HQZQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/0/RJ/FSLHZ5ZZNT2ICC6XSVP6SO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/6E/FSO0NW0W1VLMYZQ3VK8X8Q.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/6E/FSO0NW0W1VLMYZQ3VK8X8Q.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/8V/PAALD3QZWTCBDS13MGJZCE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/8V/PAALD3QZWTCBDS13MGJZCE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/WU/GYWINRPFLXF193DH21DQ31.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/ZB/K4H5UW19MFEVYQPRYJU01W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/1/ZB/K4H5UW19MFEVYQPRYJU01W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/2/4O/8HFWSSKGU04UU3CIU01FD3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/2/4O/8HFWSSKGU04UU3CIU01FD3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/2/9M/5MNLLEX4MN8LL9T8HNBH1C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/2/D9/9W7AXXIYTU7YGAKC0CQ3YH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/3/2J/UQSDS6INLOP5FYZY4664YN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/3/7W/YABKVOS0Y48G3AG0H63Q6G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/3/HM/23J4LEZ4HYPY502KGV00QL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/4/JR/1PWTYJ8PUP3K539QMPKIT8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/5/2U/ZPX5G2EBNY2M1O84QCKKWZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/5/S9/Y16766CLNQPBZEONAUQJJ3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/6/9T/DQAJ03BHQRPLT9S7VM9AYO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/6/9W/EIDCZL13IKHXXO11C0MMEG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/6/CL/J4G2BDU6L3AQ475EHGNMYC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/6/KO/H6I4BE78RQSG0LG365ZXAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/AF/KU7RR62JBB0WFJ2AHY6GML.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/AV/PX96BUZABANL5SA2ZNKR6X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/B3/XBA3OJYNIM6PKA768LDX1U.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/LW/4V74HGJON268MLXTJHKAY0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/LW/4V74HGJON268MLXTJHKAY0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/7/LZ/H15BPHKBSI1I7VQK973JD5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/1V/Z2PNZJCJDY1G3KGW008816.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/OS/E225OMPVPR2V9ET1EH5Q0C.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/OS/E225OMPVPR2V9ET1EH5Q0C.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/OS/E225OMPVPR2V9ET1EH5Q0C.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/8/OS/E225OMPVPR2V9ET1EH5Q0C.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/0Q/7H1Q34BKSR67Y0NP6A8PAC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/0Q/7H1Q34BKSR67Y0NP6A8PAC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/78/HZ4C8OMJMTT4718KGYXB19.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/7F/O6HS59DLIDEYJ5378ZL1N4.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/7F/O6HS59DLIDEYJ5378ZL1N4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/EB/49D545K6V08ZF299VRXJWS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/9/YU/8EBPOJGSWWIZABDZL3949M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/A/PW/OHEKY4R6CZ35LQCKUHSO6B.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/A/PW/OHEKY4R6CZ35LQCKUHSO6B.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/A/XC/1Y76TF6HKCEUKUY2Q16HX5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/4R/HSAZ5Z3R54ZRS5Q0VCCT7K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/AH/E2BPKYIPUNSV2BPCH7BUTK.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/AH/E2BPKYIPUNSV2BPCH7BUTK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/O7/R9QA1W51TLA5Y1EX43XGRS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/B/U8/L56XSOJQYN6UL1KJJ5B3PL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:158][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/C/33/B6WTO3X4XOHYZKJB0FVYX8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/C/IS/MD60VULM70GIB5ZJDPJLUM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/56/BLJF676DNGVT1755QCO236.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/MF/0BZN5UX3Y4D8Y6VRRM0N1O.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/MF/0BZN5UX3Y4D8Y6VRRM0N1O.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/RS/9YNVMWCYIRXG6MIXPHMT2J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/D/SG/U33F672UUCSO46ZNNR5R8K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/LT/E9ZPE0FIP9WHD93P4KNNRN.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/LT/E9ZPE0FIP9WHD93P4KNNRN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/TF/VVXBLXEP449E0C3LC0HT2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/TP/10P5C0K4N7IZJTILEDQPNR.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/TP/10P5C0K4N7IZJTILEDQPNR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.10.26-02.04.34:159][279]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/SampleMap/E/ZA/TX8DLNE9C2PGVA7YBSL1YX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.10.26-02.04.34:169][279]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.26-02.04.34:212][279]PIE: Server logged in
+[2023.10.26-02.04.34:212][279]PIE: Play in editor total start time 0.515 seconds.
+[2023.10.26-02.04.37:929][715]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] Overlapped!
+[2023.10.26-02.04.37:929][715]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] BP_Actor Overlapped!
+[2023.10.26-02.04.37:929][715]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] Score :1
+[2023.10.26-02.04.38:796][819]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] Overlapped!
+[2023.10.26-02.04.38:796][819]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] BP_Actor Overlapped!
+[2023.10.26-02.04.38:796][819]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] Score :2
+[2023.10.26-02.04.39:669][924]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.26-02.04.40:036][968]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.26-02.04.40:220][990]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.26-02.04.40:386][ 10]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.26-02.04.40:536][ 28]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.26-02.04.40:703][ 48]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.26-02.04.40:861][ 67]LogBlueprintUserMessages: [WIP_Widget_C_0] Color2
+[2023.10.26-02.04.41:052][ 90]LogBlueprintUserMessages: [WIP_Widget_C_0] Color1
+[2023.10.26-02.04.41:296][119]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] Overlapped!
+[2023.10.26-02.04.41:296][119]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] BP_Actor Overlapped!
+[2023.10.26-02.04.41:296][119]LogBlueprintUserMessages: [BP_Pawn_C_UAID_04D9F562166D76B401_2116922007] Score :3
+[2023.10.26-02.04.41:595][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.26-02.04.41:595][150]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SampleMap
+[2023.10.26-02.04.41:609][150]LogWorld: UWorld::CleanupWorld for SampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-02.04.41:609][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-02.04.41:609][150]LogContentBundle: [SampleMap(Standalone)] Deleting container.
+[2023.10.26-02.04.41:612][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.26-02.04.41:617][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-02.04.41:632][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.26-02.04.41:634][150]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.26-02.04.41:634][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.26-02.04.41:636][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.26-02.04.41:659][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.26-02.04.41:700][151]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.10.26-02.05.48:944][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.10.26-02.05.48:950][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.05.49:011][350]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-02.05.49:024][350]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.05.49:057][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Actor" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset" SILENT=true
+[2023.10.26-02.05.49:077][350]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Actor
+[2023.10.26-02.05.49:078][350]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_ActorBABA24954318746B27FA9492030AD768.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset'
+[2023.10.26-02.05.49:085][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.10.26-02.05.49:105][350]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pawn
+[2023.10.26-02.05.49:106][350]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_Pawn94FD4E39492FC37F454E91AAD44B0993.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset'
+[2023.10.26-02.05.49:115][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 640 ms)
+[2023.10.26-02.05.49:116][350]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.26-02.05.49:117][350]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Actor.BP_Actor
+[2023.10.26-02.05.49:117][350]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn
+[2023.10.26-02.07.24:977][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.26-02.07.24:982][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.07.25:046][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.10.26-02.07.25:066][ 81]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pawn
+[2023.10.26-02.07.25:067][ 81]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_Pawn6651964F467A93B0DFABC7A1FE5BA068.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset'
+[2023.10.26-02.07.25:075][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 732 ms)
+[2023.10.26-02.07.25:076][ 81]AssetCheck: New page: Asset Save: BP_Pawn
+[2023.10.26-02.07.25:076][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn
+[2023.10.26-02.07.28:298][371]LogEditorTransaction: Undo Move Node
+[2023.10.26-02.08.43:221][322]LogEditorTransaction: Undo Resize Node
+[2023.10.26-02.08.50:697][ 39]LogEditorTransaction: Undo Delete current selection
+[2023.10.26-02.09.35:000][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.10.26-02.09.35:006][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.09.35:045][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.10.26-02.09.35:066][453]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pawn
+[2023.10.26-02.09.35:067][453]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_PawnE5A0ED8548292D5DC39ECFA9617F41AB.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset'
+[2023.10.26-02.09.35:074][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 800 ms)
+[2023.10.26-02.09.35:076][453]AssetCheck: New page: Asset Save: BP_Pawn
+[2023.10.26-02.09.35:076][453]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn
+[2023.10.26-02.09.35:859][528]BlueprintLog: New page: Compile BP_Pawn
+[2023.10.26-02.09.35:899][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.10.26-02.09.39:715][922]LogSlate: Took 0.001597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.10.26-02.10.08:017][254]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.26-02.10.08:018][254]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.10.08:019][254]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.10.17:930][409]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.26-02.10.17:931][409]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.10.17:932][409]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.11.33:677][922]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.26-02.11.33:678][922]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.11.33:679][922]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.12.20:344][746]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.26-02.12.20:345][746]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.12.20:346][746]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.12.48:529][669]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.26-02.12.48:530][669]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.12.48:531][669]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.13.53:357][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.10.26-02.13.53:363][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.13.53:419][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Actor" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset" SILENT=true
+[2023.10.26-02.13.53:439][250]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Actor
+[2023.10.26-02.13.53:440][250]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_Actor5DD7ED4B4CDD36E79D11ACA9F9FEF4CA.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset'
+[2023.10.26-02.13.53:448][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 886 ms)
+[2023.10.26-02.13.53:450][250]AssetCheck: New page: Asset Save: BP_Actor
+[2023.10.26-02.13.53:450][250]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Actor.BP_Actor
+[2023.10.26-02.13.53:608][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.26-02.13.58:381][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.26-02.13.58:386][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.13.58:442][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Actor" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset" SILENT=true
+[2023.10.26-02.13.58:461][785]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Actor
+[2023.10.26-02.13.58:462][785]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_Actor00EBF38F41127F99DA4EC28CF1BEB4AB.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Actor.uasset'
+[2023.10.26-02.13.58:470][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 970 ms)
+[2023.10.26-02.13.58:471][785]AssetCheck: New page: Asset Save: BP_Actor
+[2023.10.26-02.13.58:471][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Actor.BP_Actor
+[2023.10.26-02.13.58:568][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.26-02.13.59:034][833]BlueprintLog: New page: Compile BP_Actor
+[2023.10.26-02.13.59:061][833]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.26-02.13.59:061][833]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.13.59:062][833]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.13.59:085][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.26-02.13.59:087][833]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.26-02.13.59:088][833]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.13.59:089][833]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.13.59:089][833]LogBlueprintUserMessages: [BP_Actor_C_1] Material Changed
+[2023.10.26-02.13.59:134][833]LogBlueprintUserMessages: [BP_Actor_C_UAID_04D9F562166D25B401_2143202751] Material Changed
+[2023.10.26-02.13.59:135][833]LogBlueprintUserMessages: [BP_Actor_C_0] Material Changed
+[2023.10.26-02.13.59:135][833]LogBlueprintUserMessages: [BP_Actor_C_1] Material Changed
+[2023.10.26-02.14.01:601][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.10.26-02.14.01:780][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
