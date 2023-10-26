@@ -1553,3 +1553,145 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.10.26-02.19.49:853][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.21 sec)
 [2023.10.26-02.19.49:854][638]AssetCheck: New page: Asset Save: WIP_Widget
 [2023.10.26-02.19.49:854][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.26-02.21.10:597][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.26-02.21.10:831][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.26-02.21.57:080][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.26-02.21.57:086][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.21.57:157][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.26-02.21.57:170][914]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.26-02.21.57:171][914]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_WidgetF8E90B02441DED7821B60794B7E44DD3.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.26-02.21.57:179][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.31 sec)
+[2023.10.26-02.21.57:180][914]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.26-02.21.57:180][914]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.26-02.22.00:023][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.10.26-02.22.00:028][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.22.00:086][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.26-02.22.00:099][240]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.26-02.22.00:100][240]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_Widget362596AB4336CFCF777092A8766B3A33.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.26-02.22.00:108][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.39 sec)
+[2023.10.26-02.22.00:109][240]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.26-02.22.00:110][240]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.26-02.22.00:263][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.26-02.22.07:272][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.26-02.22.10:393][402]BlueprintLog: New page: Compile WIP_Widget
+[2023.10.26-02.22.10:427][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.10.26-02.22.36:935][ 70]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2023.10.26-02.22.37:142][ 70]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.207 s
+[2023.10.26-02.22.37:142][ 70]LogOutputDevice: Error: === Handled ensure: ===
+[2023.10.26-02.22.37:142][ 70]LogOutputDevice: Error: 
+[2023.10.26-02.22.37:142][ 70]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid  [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 914] 
+[2023.10.26-02.22.37:142][ 70]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinObject [NodeFactory.cpp(293)]). See InvalidateGraphData for more info
+[2023.10.26-02.22.37:142][ 70]LogOutputDevice: Error: Stack: 
+[2023.10.26-02.22.37:142][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa6fb7f0f1 UnrealEditor-GraphEditor.dll!SGraphPin::GetPinObj() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp:914]
+[2023.10.26-02.22.37:142][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa6fa94e08 UnrealEditor-GraphEditor.dll!SGraphNode::FindWidgetForPin() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphNode.cpp:1370]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa6fb7c706 UnrealEditor-GraphEditor.dll!FGraphPinHandle::FindInGraphPanel() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp:94]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa6f91cee2 UnrealEditor-GraphEditor.dll!FGraphSplineOverlapResult::GetPinWidgets() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\ConnectionDrawingPolicy.cpp:624]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa6fb16334 UnrealEditor-GraphEditor.dll!SGraphPanel::OnSplineHoverStateChanged() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:675]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa6fb140f5 UnrealEditor-GraphEditor.dll!SGraphPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:626]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c7266a UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:207]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a3fa560 UnrealEditor-Slate.dll!SBox::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBox.cpp:293]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a3fa374 UnrealEditor-Slate.dll!SBorder::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:129]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c7266a UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:207]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c727ab UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a3feac1 UnrealEditor-Slate.dll!SSplitter::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:253]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a3feac1 UnrealEditor-Slate.dll!SSplitter::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:253]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c7266a UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:207]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c727ab UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c7266a UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:207]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c727ab UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a3fa374 UnrealEditor-Slate.dll!SBorder::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:129]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c7266a UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:207]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c727ab UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a3feac1 UnrealEditor-Slate.dll!SSplitter::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:253]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c7266a UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:207]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c727ab UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c7266a UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:207]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c727ab UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c766f2 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c727ab UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c7266a UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:207]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c71ad1 UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79c75925 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1573]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79ca6892 UnrealEditor-SlateCore.dll!SWindow::PaintSlowPath() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2075]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79aa81bc UnrealEditor-SlateCore.dll!FSlateInvalidationRoot::PaintInvalidationRoot() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\FastUpdate\SlateInvalidationRoot.cpp:405]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa79ca6c80 UnrealEditor-SlateCore.dll!SWindow::PaintWindow() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2109]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a0af615 UnrealEditor-Slate.dll!FSlateApplication::DrawWindowAndChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1154]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a0d518e UnrealEditor-Slate.dll!FSlateApplication::PrivateDrawWindows() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1390]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a0afc61 UnrealEditor-Slate.dll!FSlateApplication::DrawWindows() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1098]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a0f7514 UnrealEditor-Slate.dll!FSlateApplication::TickAndDrawWidgets() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1684]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffa7a0f6be2 UnrealEditor-Slate.dll!FSlateApplication::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1540]
+[2023.10.26-02.22.37:143][ 70]LogOutputDevice: Error: [Callstack] 0x00007ff63a909d0f UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5951]
+[2023.10.26-02.22.37:144][ 70]LogOutputDevice: Error: [Callstack] 0x00007ff63a92d28c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:188]
+[2023.10.26-02.22.37:144][ 70]LogOutputDevice: Error: [Callstack] 0x00007ff63a92d37a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:118]
+[2023.10.26-02.22.37:144][ 70]LogOutputDevice: Error: [Callstack] 0x00007ff63a930854 UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:258]
+[2023.10.26-02.22.37:144][ 70]LogOutputDevice: Error: [Callstack] 0x00007ff63a946984 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:298]
+[2023.10.26-02.22.37:144][ 70]LogOutputDevice: Error: [Callstack] 0x00007ff63a949d7a UnrealEditor.exe!__scrt_common_main_seh() [D:\a\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2023.10.26-02.22.37:144][ 70]LogOutputDevice: Error: [Callstack] 0x00007ffafb867614 KERNEL32.DLL!UnknownFunction []
+[2023.10.26-02.22.37:144][ 70]LogOutputDevice: Error: 
+[2023.10.26-02.22.37:146][ 70]LogStats:                SubmitErrorReport -  0.000 s
+[2023.10.26-02.22.38:107][ 70]LogStats:                    SendNewReport -  0.961 s
+[2023.10.26-02.22.38:107][ 70]LogStats:             FDebug::EnsureFailed -  1.171 s
+[2023.10.26-02.22.41:265][389]BlueprintLog: New page: Compile BP_Pawn
+[2023.10.26-02.22.41:308][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.10.26-02.22.42:405][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.26-02.22.42:410][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.22.42:477][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.10.26-02.22.42:498][492]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pawn
+[2023.10.26-02.22.42:498][492]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/BP_PawnD3969C3C47B9FAD852FA08946A55664C.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/Blueprints/BP_Pawn.uasset'
+[2023.10.26-02.22.42:506][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.48 sec)
+[2023.10.26-02.22.42:508][492]AssetCheck: New page: Asset Save: BP_Pawn
+[2023.10.26-02.22.42:508][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn
+[2023.10.26-02.23.00:989][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.10.26-02.23.01:258][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
