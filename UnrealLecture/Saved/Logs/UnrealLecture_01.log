@@ -1528,3 +1528,18 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.10.26-02.13.59:135][833]LogBlueprintUserMessages: [BP_Actor_C_1] Material Changed
 [2023.10.26-02.14.01:601][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
 [2023.10.26-02.14.01:780][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.26-02.14.40:385][351]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-02.17.42:592][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.26-02.17.42:597][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-02.17.42:658][532]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FHierarchyModel> > [SHierarchyView.cpp(327)].
+[2023.10.26-02.17.42:756][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WIP_Widget" FILE="../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset" SILENT=true
+[2023.10.26-02.17.42:770][532]LogSavePackage: Moving output files for package: /Game/WIP_Widget
+[2023.10.26-02.17.42:771][532]LogSavePackage: Moving '../../../../../../Work/UnrealLecture_01/UnrealLecture/Saved/WIP_WidgetF68E12764536461DA13ABB8EFB53E0E5.tmp' to '../../../../../../Work/UnrealLecture_01/UnrealLecture/Content/WIP_Widget.uasset'
+[2023.10.26-02.17.42:778][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 1.15 sec)
+[2023.10.26-02.17.42:780][532]AssetCheck: New page: Asset Save: WIP_Widget
+[2023.10.26-02.17.42:780][532]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WIP_Widget.WIP_Widget
+[2023.10.26-02.17.42:929][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.10.26-02.17.47:650][ 34]BlueprintLog: New page: Compile WIP_Widget
+[2023.10.26-02.17.47:701][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.10.26-02.17.50:734][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.10.26-02.17.56:569][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
