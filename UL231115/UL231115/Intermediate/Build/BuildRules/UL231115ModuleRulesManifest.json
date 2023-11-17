@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Work\\UnrealLecture_01\\UL231115\\UL231115\\Source\\UL231115\\UL231115.Build.cs",
+		"C:\\Work\\UnrealLecture_01\\UL231115\\UL231115\\Source\\UL231115.Target.cs",
+		"C:\\Work\\UnrealLecture_01\\UL231115\\UL231115\\Source\\UL231115Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

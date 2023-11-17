@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unreallecture_01\\ul231115\\ul231115\\source\\ul231115\\ul231115.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unreallecture_01\\ul231115\\ul231115\\intermediate\\build\\win64\\x64\\ul231115editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\work\\unreallecture_01\\ul231115\\ul231115\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ul231115\\definitions.ul231115.h",
+            "c:\\work\\unreallecture_01\\ul231115\\ul231115\\source\\ul231115\\ul231115.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/M_DemoWall.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Skeleton.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_PhysicsAsset.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Anim.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/Animation/Idle.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/Animation/JumpEnd.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/Animation/JumpLoop.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/Animation/JumpStart.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/Animation/Run_Bwd.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/Animation/Run_Fwd.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/Animation/Run_Lt.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/Animation/Run_Rt.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/source/m1911_finalFire.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/textures/m1911_color.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/textures/m1911_metalness.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/textures/m1911_normal.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/textures/m1911_roughness.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/source/lambert1.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/source/m1911_color.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/source/m1911_finalFire_Skeleton.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/source/m1911_finalFire_PhysicsAsset.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Gun/source/m1911_finalFire_Anim.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Blueprint/BP_Character.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Skeleton_Anim.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Skeleton_Space1D.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Animation.umap",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Skeleton_BlendSpace.uasset"
+			]
+		}
+	]
+}
