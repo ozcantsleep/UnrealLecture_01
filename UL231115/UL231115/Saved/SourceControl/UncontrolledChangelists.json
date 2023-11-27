@@ -33,7 +33,15 @@
 				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Skeleton_Anim.uasset",
 				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Skeleton_Space1D.uasset",
 				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Animation.umap",
-				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Skeleton_BlendSpace.uasset"
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Skeleton_BlendSpace.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/HeroTPP/SkeletalMesh/HeroTPP_Skeleton_Anim1.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Blueprint/Enemy/BP_Enemy.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Blueprint/Enemy/BP_EnemyController.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Blueprint/Enemy/BB_Enemy.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Blueprint/Enemy/BT_Enemy.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Blueprint/Enemy/BTT_ChasePlayer.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Blueprint/Enemy/BTT_FindRandomPatrol.uasset",
+				"C:/Work/UnrealLecture_01/UL231115/UL231115/Content/Blueprint/Enemy/BP_Nemy.uasset"
 			]
 		}
 	]
